@@ -1,4 +1,4 @@
-# Campus Taskboard API
+# -Creating-My-First-Spring-Boot-API-with-Validation
 
 ## Project Description
 
@@ -114,5 +114,3 @@ If invalid data is submitted, the API returns a 400 Bad Request with error messa
 (Paste your video link here)
 
 ---
-
-# -Creating-Your-First-Spring-Boot-API-with-Validation
