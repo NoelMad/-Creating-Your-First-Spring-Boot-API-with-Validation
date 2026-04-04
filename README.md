@@ -110,7 +110,4 @@ If invalid data is submitted, the API returns a 400 Bad Request with error messa
 ---
 
 ## Video Link
-
-(Paste your video link here)
-
----
+[Watch the demo](https://www.youtube.com/watch?v=mo7y3R6u-RQ)
